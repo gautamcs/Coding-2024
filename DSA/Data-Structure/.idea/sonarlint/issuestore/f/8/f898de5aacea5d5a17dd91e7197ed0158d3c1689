@@ -1,0 +1,17 @@
+
+Y
+java:S2589
+"7Remove this expression which always evaluates to "true"(“•ñµúÿÿÿÿ8É„ÃìÏ1
+R
+java:S1854"5Remove this useless assignment to local variable "d".(íœÙ‘8Î„ÃìÏ1
+C
+java:S1481"&Remove this unused "d" local variable.(íœÙ‘8Ğ„ÃìÏ1
+I
+java:S1125
+"'Remove the unnecessary boolean literal.(“•ñµúÿÿÿÿ8Ò„ÃìÏ1
+B
+java:S3457"%String contains no format specifiers.(©·éÙ8Ò„ÃìÏ1
+G	java:S106"+Replace this use of System.out by a logger.(©·éÙ8Ó„ÃìÏ1
+G
+java:S3457"%String contains no format specifiers.(ÖÌ¥ğıÿÿÿÿ8Ô„ÃìÏ1
+L	java:S106"+Replace this use of System.out by a logger.(ÖÌ¥ğıÿÿÿÿ8Õ„ÃìÏ1

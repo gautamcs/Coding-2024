@@ -1,0 +1,30 @@
+package collection.map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class HashMapPrint {
+	public static void main(String[] args) {
+		
+		System.out.println(" HashMap Programs... ");
+		
+		HashMap<Integer, String> map = new HashMap<>(); 
+		
+		map.put(101, "Gautam");
+		map.put(10, "Manoj");
+		map.put(121, "Nirmal");
+		map.put(91, "Nutan");
+		map.put(45, "Archana");
+		map.put(50, "Hirday");
+		map.put(75, "Vamsi");
+		map.put(111, "Vaibhav");
+		map.put(151, "Gaurav");
+		
+		System.out.println(map.size());
+		
+		for(Map.entry<Integer, String> mp : map) {
+			
+		}
+	
+	}
+}

@@ -1,0 +1,9 @@
+
+f
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8ª²ÀÑ1
+G	java:S106	"+Replace this use of System.out by a logger.(…ş²Ş8®Ú¿Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(½·…Õüÿÿÿÿ8±Ú¿Ñ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê›Áµùÿÿÿÿ8êæÂÑ1
+L	java:S106"+Replace this use of System.out by a logger.(Í…«üÿÿÿÿ8³Ú¿Ñ1
+T
+java:S1144"2Remove this unused private "searchRegular" method.(¡›–Õıÿÿÿÿ8„ÃÑ1

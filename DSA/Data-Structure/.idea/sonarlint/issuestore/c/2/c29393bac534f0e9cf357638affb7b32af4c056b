@@ -1,0 +1,11 @@
+
+>
+java:S1643"Use a StringBuilder instead.(Ö‡úÔüÿÿÿÿ8ìüäÄÑ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òÄ‚‹8íüäÄÑ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¤¤°è8ûüäÄÑ1
+G	java:S106"+Replace this use of System.out by a logger.(µˆœÑ8şüäÄÑ1
+G	java:S106"+Replace this use of System.out by a logger.(İì¡¥8æÄÑ1
+M
+java:S1128"0Remove this unused import 'java.util.SortedMap'.(’ŸÕ8şüäÄÑ1
+P
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ8ÿüäÄÑ1

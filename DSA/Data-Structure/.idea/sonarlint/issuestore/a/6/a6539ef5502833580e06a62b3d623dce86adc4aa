@@ -1,0 +1,8 @@
+
+O
+java:S1199	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8’Í¾óÏ1
+F	java:S106"+Replace this use of System.out by a logger.(İÎ›8©Í¾óÏ1
+G	java:S106 "+Replace this use of System.out by a logger.(ò¢Ï¿8©Í¾óÏ1
+L	java:S106%"+Replace this use of System.out by a logger.(¹²†¯ÿÿÿÿÿ8òèÄóÏ1
+L	java:S106'"+Replace this use of System.out by a logger.(½·…Õüÿÿÿÿ8Ï“ÛóÏ1
+G	java:S106*"+Replace this use of System.out by a logger.(ıúÏ8àåàóÏ1

@@ -1,0 +1,40 @@
+package collection.map;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map.Entry;
+import java.util.Set;
+
+public class HashMapPrint {
+	public static void main(String[] args) {
+		
+		System.out.println(" HashMap Programs... ");
+		
+		HashMap<Integer, String> map = new HashMap<>(); 
+		
+		map.put(101, "Gautam");
+		map.put(10, "Manoj");
+		map.put(121, "Nirmal");
+		map.put(91, "Nutan");
+		map.put(45, "Archana");
+		map.put(50, "Hirday");
+		map.put(75, "Vamsi");
+		map.put(111, "Vaibhav");
+		map.put(151, "Gaurav");
+		
+		System.out.println(map.size());
+		
+//		for(Entry<Integer, String> mp : map.entrySet()) {
+//			System.out.println(mp.getKey()+" -> "+mp.getValue());
+	//	}
+	
+		Set<Integer> keys = map.keySet();
+		Iterator it = keys.iterator();
+		System.out.println(keys);
+		System.out.println(" ------- 2nd Way ----------------");
+		while(it.hasNext()) {
+			int key = (int)it.next();
+			System.out.println(it.next()+" -> "+map.get(key));
+		}
+	}
+}

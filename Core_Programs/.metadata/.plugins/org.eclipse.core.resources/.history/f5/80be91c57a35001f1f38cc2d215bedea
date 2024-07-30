@@ -1,0 +1,23 @@
+package collection.map;
+
+import java.util.HashMap;
+
+public class HashMapPrint {
+	public static void main(String[] args) {
+		
+		System.out.println(" HashMap Programs... ");
+		
+		HashMap<Integer, String> map = new HashMap<>(); 
+		
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+		map.put(101, "Gautam");
+	
+	}
+}

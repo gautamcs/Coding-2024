@@ -1,0 +1,14 @@
+package Arithmetic;
+
+import java.util.Scanner;
+
+public class PrimeNumber {
+	
+	public static void main(String[] args) {
+		
+		System.out.println(" Enter Numner: ");
+		int num; 
+		Scanner sc = num.nextInt();
+	}
+
+}
