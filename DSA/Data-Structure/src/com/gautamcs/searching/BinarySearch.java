@@ -1,5 +1,7 @@
 package com.gautamcs.searching;
 
+import java.util.HashMap;
+
 public class BinarySearch {
     public static int method1(int[] arr, int key) {
         int low = 0;
@@ -40,8 +42,12 @@ public class BinarySearch {
         int[] arr = {2, 3, 4, 10, 40};
         int key = 11;
 
+        HashMap<Integer, String> map = new HashMap<>(4);
+        System.out.println("Size: "+map.size());
+
         //int index = BinarySearch.method1(arr, key);
 
+//        Character.is
         int index = BinarySearch.recMethod(arr, 0, arr.length - 1, key);
         System.out.println(" Key Found at: " + index);
     }

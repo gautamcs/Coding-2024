@@ -1,8 +1,0 @@
-package collection.map;
-
-public class HashMapPrint {
-	public static void main(String[] args) {
-		
-		System.out.println(" HashMap Programs... ");
-	}
-}
