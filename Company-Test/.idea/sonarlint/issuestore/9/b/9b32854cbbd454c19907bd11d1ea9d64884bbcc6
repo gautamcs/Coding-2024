@@ -1,0 +1,12 @@
+
+q
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(«Õëó
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜‡åËýÿÿÿÿ
+C
+java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(«­áæýÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(éõ¹#
+W	java:S125"<This block of commented-out lines of code should be removed.(ÒàL8µÆ´î‘2
+E	java:S106"+Replace this use of System.out by a logger.(Æúè¯úÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(½·…Õüÿÿÿÿ
